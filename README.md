@@ -59,7 +59,7 @@ Clone the repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aval-s/BreadcrumbsUnderground-Water-Level-Prediction.git
+   git clone https://github.com/aval-s/Underground-Water-Level-Prediction.git
    ```
 
 2. Install dependencies:
